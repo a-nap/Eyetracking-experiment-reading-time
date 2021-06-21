@@ -1,0 +1,34 @@
+item	condition	$np_gender	$conjunction	$sentence	list	question_present	$correct_answer	$wrong_answer	$left_answer	$right_answer	correct	order	block
+number	number	string	string	string	number	number	string	string	string	string	number	number	number
+2001	0	"none"	"bevor"	"In Internetforen diskutierten Eltern, bevor sie mit den Lehrern sprachen."	1	1	"Die Internetforen"	"Die Zeitungen"	"Die Internetforen"	"Die Zeitungen"	6	1	1
+2002	0	"none"	"wobei"	"Beide Einrichtungen wurden von Freiwilligen betrieben, wobei es an der Buchhaltung haperte."	1	0	"."	"."	"."	"."	0	2	1
+2003	0	"none"	"bevor"	"Das Fruchtfleisch war gelblichweiß, bevor die Frucht reif war."	1	0	"."	"."	"."	"."	0	3	1
+2004	0	"none"	"während"	"Das Kind klagte über Schmerzen, während die Mutter Milchreis kochte."	1	0	"."	"."	"."	"."	0	4	1
+1010	0	"none"	"während"	"Der Bundesrat schien sich zu treffen, während die Journalisten vor der Türe warteten."	1	1	"Der Radrennfahrer"	"Der Bürgermeister"	"Der Radrennfahrer"	"Der Bürgermeister"	6	1	2
+115	5	"M"	"um"	"Waldfried/ flog/ auf die Bahamas,/ und zwar/ um/ einen Film/ zu drehen."	1	0	"."	"."	"."	"."	0	2	2
+1020	100	"M"	"wobei"	"Eckard nahm schnell ab, wobei das Telefon erst zwei Mal geläutet hatte."	1	0	"."	"."	"."	"."	0	3	3
+125	5	"F"	"um"	"Ilona/ fuhr/ nach Berlin,/ und zwar/ um/ sich behandeln/ zu lassen."	1	0	"."	"."	"."	"."	0	4	3
+2001	0	"none"	"bevor"	"In Internetforen diskutierten Eltern, bevor sie mit den Lehrern sprachen."	2	1	"Die Internetforen"	"Die Zeitungen"	"Die Internetforen"	"Die Zeitungen"	6	1	1
+2002	0	"none"	"wobei"	"Beide Einrichtungen wurden von Freiwilligen betrieben, wobei es an der Buchhaltung haperte."	2	0	"."	"."	"."	"."	0	2	1
+2003	0	"none"	"bevor"	"Das Fruchtfleisch war gelblichweiß, bevor die Frucht reif war."	2	0	"."	"."	"."	"."	0	3	1
+2004	0	"none"	"während"	"Das Kind klagte über Schmerzen, während die Mutter Milchreis kochte."	2	1	"Das Kind"	"Der Kindergarten"	"Der Kindergarten"	"Das Kind"	7	4	1
+1010	0	"none"	"während"	"Das Paar hatte vier Kinder, aber wollte nur zwei."	2	0	"."	"."	"."	"."	0	1	2
+115	5	"M"	"um"	"Waldfried/ flog/ auf die Bahamas,/ und zwar/ um/ einen Film/ zu drehen."	2	0	"."	"."	"."	"."	0	2	2
+1061	100	"M"	"während"	"Moritz pendelte mit dem Zug, während seine Freundin mit dem Auto zur Arbeit fuhr."	2	0	"."	"."	"."	"."	0	3	3
+125	5	"F"	"um"	"Ilona/ fuhr/ nach Berlin,/ und zwar/ um/ sich behandeln/ zu lassen."	2	0	"."	"."	"."	"."	0	4	3
+2001	0	"none"	"bevor"	"In Internetforen diskutierten Eltern, bevor sie mit den Lehrern sprachen."	3	1	"Die Internetforen"	"Die Zeitungen"	"Die Internetforen"	"Die Zeitungen"	6	1	1
+2002	0	"none"	"wobei"	"Beide Einrichtungen wurden von Freiwilligen betrieben, wobei es an der Buchhaltung haperte."	3	0	"."	"."	"."	"."	0	2	1
+2003	0	"none"	"bevor"	"Das Fruchtfleisch war gelblichweiß, bevor die Frucht reif war."	3	0	"."	"."	"."	"."	0	3	1
+2004	0	"none"	"während"	"Das Kind klagte über Schmerzen, während die Mutter Milchreis kochte."	3	1	"Das Kind"	"Der Kindergarten"	"Der Kindergarten"	"Das Kind"	7	4	1
+1010	0	"none"	"während"	"Der Schwerpunkt änderte sich, während der Radrennfahrer zur Seite kippte."	3	1	"Der Radrennfahrer"	"Der Bürgermeister"	"Der Radrennfahrer"	"Der Bürgermeister"	6	1	2
+1116	100	"none"	"aber"	"Apitherapie war keine neuzeitliche Erfindung, aber nur wenige kannten sie."	3	0	"."	"."	"."	"."	0	2	2
+128	5	"M"	"um"	"Liam/ verließ/ den Zirkus,/ und zwar/ um/ eine Weltreise/ zu machen."	3	0	"."	"."	"."	"."	0	3	3
+1068	100	"F"	"wobei"	"Regine strich die Wände, wobei sie lieber zuerst den Boden verlegt hätte."	3	1	"Eine Frau"	"Eine Ratte"	"Eine Frau"	"Eine Ratte"	6	4	3
+2001	0	"none"	"bevor"	"In Internetforen diskutierten Eltern, bevor sie mit den Lehrern sprachen."	4	1	"Die Internetforen"	"Die Zeitungen"	"Die Internetforen"	"Die Zeitungen"	6	1	1
+2002	0	"none"	"wobei"	"Beide Einrichtungen wurden von Freiwilligen betrieben, wobei es an der Buchhaltung haperte."	4	0	"."	"."	"."	"."	0	2	1
+2003	0	"none"	"bevor"	"Das Fruchtfleisch war gelblichweiß, bevor die Frucht reif war."	4	0	"."	"."	"."	"."	0	3	1
+2004	0	"none"	"während"	"Das Kind klagte über Schmerzen, während die Mutter Milchreis kochte."	4	1	"Das Kind"	"Der Kindergarten"	"Der Kindergarten"	"Das Kind"	7	4	1
+1010	0	"none"	"während"	"Das Team wollte jedes Spiel gewinnen, während es dem Trainer egal war."	4	1	"Der Trainer"	"Die Fans"	"Der Trainer"	"Die Fans"	6	1	2
+156	6	"M"	"weil"	"Der Vermieter/ ging/ vor Gericht,/ und zwar/ weil/ die Mieterin/ nie bezahlt hatte."	4	0	"."	"."	"."	"."	0	2	2
+108	5	"F"	"um"	"Die Autorin/ arbeitete/ Tag und Nacht,/ und zwar/ um/ ihren Roman/ fertigzuschreiben."	4	0	"."	"."	"."	"."	0	3	3
+1068	100	"F"	"wobei"	"Regine strich die Wände, wobei sie lieber zuerst den Boden verlegt hätte."	4	1	"Eine Frau"	"Eine Ratte"	"Eine Ratte"	"Eine Frau"	7	4	3
