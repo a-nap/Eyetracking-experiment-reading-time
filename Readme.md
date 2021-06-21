@@ -1,6 +1,5 @@
 # Eyetracking experiment: reading time
 
-# ----------------------
 EB version 2.1.512
 
 Feb 12. 2019
