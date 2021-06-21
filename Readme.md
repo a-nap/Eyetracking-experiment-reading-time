@@ -1,8 +1,12 @@
 # ----------------------
 EB version 2.1.512
-12. Feb 2019
+
+Feb 12. 2019
+
 Programmed by Anna Pryslopska (pryslopska.com)
+
 Please report bugs to: anna.pryslopska@uni-tuebingen.de
+
 # ----------------------
 
 # Description
