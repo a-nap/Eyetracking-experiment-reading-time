@@ -1,3 +1,5 @@
+# Eyetracking experiment: reading time
+
 # ----------------------
 EB version 2.1.512
 
@@ -9,13 +11,13 @@ Please report bugs to: anna.pryslopska@uni-tuebingen.de
 
 # ----------------------
 
-# Description
+## Description
 
 Simple reading time experiment template. Participants view a fixation point in the middle of the first letter of the sentence. After fixating the point, the whole sentence appears, as well as a second fixation point. When participants fixate a second fixation point or read the sentence for longer than 20000 ms. the sentence disappears. Some sentences are followed by a comprehension question with two answer alternatives. 
 
 Please enable the notes (View > Properties > Note) for more information about all actions and triggers.
 
-# Structure
+## Structure
 
 The experiment is structured as follows:
 
@@ -42,15 +44,15 @@ This experiment has many redundancies built in. Should information be missing fr
 
 The experiment consists of 4 lists. These are encoded in the trial data source in the column "LIST". This column is used in the randomization setting as the splitting column. Please consult the notes on how the TRIAL procedure is split.
 
-# Hardware
+## Hardware
 
 This experiment was programmed for SR Research Eyelink 1000 desktop build, monocular mount and with the illuminator on the right. The display is 1920x1080. A game pad is used for navigation (two bottom buttons, left (6) and right (7)).
 
-# Warning message
+## Warning message
 
 Warning message 2637 about a MultiLine Text Resource in EXPERIMENT->TRIAL->QUESTION->QUESTION_EVENTS->DISPLAY_Question->MULTILINE_TEXT_RESOURCE means that there are no interest areas generated for the question display. This is done here on purpose, but can be changed on the respective display.
 
-# License
+## License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International.
 
