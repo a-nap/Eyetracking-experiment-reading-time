@@ -6,7 +6,7 @@ Feb 12. 2019
 
 Programmed by Anna Pryslopska (pryslopska.com)
 
-Please report bugs to: anna.pryslopska@uni-tuebingen.de
+Please report bugs to: anna.pryslopska@ling.uni-stuttgart.de
 
 # ----------------------
 
